@@ -5,6 +5,8 @@ A Python-based interactive algorithm visualization tool built with Pygame. Watch
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
 
+![Alt Text](./avs.png)
+
 ## Features
 
 ### Sorting Algorithms
